@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-size: 10px;
+    align-content: center;
+    background-image: url("images/rockpaper.png");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-color: rgb(134, 196, 185);
+    font-family: 'Kanit', sans-serif;
+}
+h1{
+    color: white;
+    font-size: 4rem;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    color: white; 
+    font-size: 4rem;
+    margin-top: 15%;
+}
+.rock{
+    margin-left: 23.5%;
+}
+button{
+    font-size: 1.5rem;
+    color: rgb(27, 26, 62);
+    padding: .5%;
+    margin-left: 4%;
+    background-color: lightgrey;
+    border-radius: 5%;
+    border-width: ;
+}
