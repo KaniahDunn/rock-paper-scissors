@@ -4,7 +4,7 @@
 
 ## Try it out here: https://goofy-beaver-a56a4d.netlify.com/ 
 
-1[alt-text](css/images/rock-paper-scissors.png)
+![alt-text](css/images/rock-paper-scissors.png)
 
 Technologies Used: 
 - HTML 
